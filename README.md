@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="left">🖖 Harow</h1>
 
-<!--
-**EurekaMk2/EurekaMk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/EurekaMk2/EurekaMk2/refs/heads/main/black-hanekawa.gif" align="right" width=40% style="margin-left: 5px; border-radius: 14px" />
 
-Here are some ideas to get you started:
+<h4 align="left">I hate NixOS btw</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌅 Writing code at day
+- 🌃 Writing poetry and photographing city lights at night
+- 🌱 Minecraft mods/plugins developer
+- 💻 Homelabs? More like homedatacenters
+- 🌍 Russian, English, Ukrainian, Spanish
+- 🫦 The unemployed friend with mysterious sources of income
+
+<br>
+
+> Woken to resume my need to stay the real me
