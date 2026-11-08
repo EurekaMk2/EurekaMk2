@@ -1,7 +1,6 @@
-<h1 align="left">🖖 Harow</h1>
-
 <img src="https://raw.githubusercontent.com/EurekaMk2/EurekaMk2/refs/heads/main/black-hanekawa.gif" align="right" width=40% style="margin-left: 5px; border-radius: 14px" />
 
+<h1 align="left">🖖 Harow</h1>
 <h4 align="left">I hate NixOS btw</h4>
 
 - 🌅 Writing code at day
